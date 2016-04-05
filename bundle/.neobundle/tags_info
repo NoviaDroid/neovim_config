@@ -1,0 +1,9 @@
+ag.vim
+ctrlp.vim
+neobundle.vim
+neocomplcache.vim
+neovim-colors-solarized-truecolor-only
+nerdtree
+tagbar
+vim-airline
+vim-nerdtree-tabs
